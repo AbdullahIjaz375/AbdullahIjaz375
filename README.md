@@ -1,7 +1,7 @@
 # Hey, I'm Abdullah Ijaz 👋
 ## A Full Stack Developer
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on SignSense's Backend<br>👯 I’m looking to collaborate on Web Applications<br>🤝 I’m looking for help with VueJS<br>🌱 I’m currently learning VueJS
 
 

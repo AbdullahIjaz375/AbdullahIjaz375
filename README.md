@@ -60,11 +60,9 @@ I don’t just ship code — I build systems that are maintainable, scalable, an
 
 ---
 
-## 💼 Current Work
+## 📈 GitHub Activity
 
-- Building scalable backend systems for startups & enterprises  
-- Designing AI-powered platforms and automation systems  
-- Architecting APIs and infrastructure from 0 → production  
+![Abdullah's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-ijaz&theme=github-compact)
 
 ---
 
